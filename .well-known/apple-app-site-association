@@ -5,7 +5,8 @@
       {
         "appID": "LKWJEF.com.weareadaptive.alpha.phoenix.mobile.dev",
         "paths": [
-          "/deeplink-web/*"
+          "/testscreen/*",
+          "/products/*"
         ]
       }
     ]
