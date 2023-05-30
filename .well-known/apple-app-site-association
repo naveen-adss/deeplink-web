@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "LKWJEF.com.weareadaptive.alpha.phoenix.mobile.dev",
+        "paths": [
+          "/deeplink-web/*"
+        ]
+      }
+    ]
+  }
+}
