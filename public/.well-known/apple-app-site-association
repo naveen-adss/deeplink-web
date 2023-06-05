@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "com.weareadaptive.alpha.phoenix.mobile.dev",
+        "paths": [
+          "/testscreen/*",
+          "/products/*"
+        ]
+      }
+    ]
+  }
+}

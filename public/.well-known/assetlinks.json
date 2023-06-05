@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.yourapp",
+      "package_name": "com.weareadaptive.alpha.phoenix.mobile.dev",
       "sha256_cert_fingerprints": ["FA:KE:SH:A2:56:..."]
     }
   }
